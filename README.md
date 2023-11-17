@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, Let me tell you about MySelf 👋
+ <img align="right" style="position: absolute;" alt="shigure" width="400" src="https://media.tenor.com/cyORI7kwShQAAAAi/shigure-ui-dance.gif">
 
 <!--
 **IhtishamTac/IhtishamTac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
