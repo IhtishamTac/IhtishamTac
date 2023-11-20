@@ -4,7 +4,7 @@
 
 ### Programming Tools 💻
 - Programming Languages
-  - <img alt="php" width="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/php.png">
+   <img alt="php" height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/php.png">
   
 - Proggraming Frameworks
   
