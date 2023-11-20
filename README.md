@@ -1,6 +1,10 @@
-### Hi there, Im a Software Engineering Student at Smkn2 Sukabumi 👋
+## Hi there, Im a Software Engineering Student at Smkn2 Sukabumi 👋
 -  🌱 I’m currently learning Javascript
 -  💬 Ask me about Anything
+
+### Programming Tools
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
  <img align="right" position="absolute" alt="shigure" width="400" src="https://media.tenor.com/cyORI7kwShQAAAAi/shigure-ui-dance.gif">
 
 
