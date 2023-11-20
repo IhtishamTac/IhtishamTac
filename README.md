@@ -3,7 +3,10 @@
 -  💬 Ask me about Anything
 
 ### Programming Tools 💻
-
+- Programming Languages
+  https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/php.png
+- Proggraming Frameworks
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IhtishamTac&layout=compact)
  <img align="right" position="absolute" alt="shigure" width="400" src="https://media.tenor.com/cyORI7kwShQAAAAi/shigure-ui-dance.gif">
 
