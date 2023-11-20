@@ -4,7 +4,7 @@
  <img align="right" position="absolute" alt="shigure" width="400" src="https://media.tenor.com/cyORI7kwShQAAAAi/shigure-ui-dance.gif">
 
 ## Programming Tools 💻
-- Programming Languages
+- Programming Languages 📄
      -
   <img align="center" alt="php" height="30" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/php.png">
    <img align="center" alt="php" height="30" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg">
@@ -12,14 +12,14 @@
    <img align="center" alt="php" height="30" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%23.svg">
    <img align="center" alt="php" height="30" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/kotlin.svg">
   
-- Programming Frameworks
+- Programming Frameworks 📂
      -
   <img align="center" alt="php" height="30" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/laravel.svg">
     <img align="center" alt="php" height="30" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/vuejs.svg">
     <img align="center" alt="php" height="30" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/django.svg">
      <img align="center" alt="php" height="30" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/android.svg">
      
-- Other Tools
+- Other Tools 🔧
      -
    <img align="center" alt="php" height="30" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg">
     <img align="center" alt="php" height="30" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg">
