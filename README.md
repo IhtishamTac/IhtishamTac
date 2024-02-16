@@ -18,6 +18,9 @@
     <img align="center" alt="php" height="30" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/vuejs.svg">
     <img align="center" alt="php" height="30" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/django.svg">
      <img align="center" alt="php" height="30" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/android.svg">
+     <img align="center" alt="php" height="30" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
+     <img align="center" alt="php" height="30" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg">
+     
      
 - Other Tools 🔧
      -
@@ -29,6 +32,7 @@
      <img align="center" alt="php" height="30" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/vs-studio.svg">
      <img align="center" alt="php" height="30" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/android-studio.svg">
      <img align="center" alt="php" height="30" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg">
+     <img align="center" alt="php" height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
   
 
 
