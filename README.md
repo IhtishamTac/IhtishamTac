@@ -20,6 +20,7 @@
      <img align="center" alt="php" height="30" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/android.svg">
      <img align="center" alt="php" height="30" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
      <img align="center" alt="php" height="30" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg">
+     <img align="center" alt="php" height="30" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/react.svg">
      
      
 - Other Tools 🔧
@@ -34,8 +35,6 @@
      <img align="center" alt="php" height="30" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg">
      <img align="center" alt="php" height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
   
-
-
 
 <!--
 **IhtishamTac/IhtishamTac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
