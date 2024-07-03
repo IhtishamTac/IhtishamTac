@@ -1,7 +1,8 @@
 ## Hi there, Im a Software Engineering Student at Smkn2 Sukabumi 👋
--  🌱 I’m currently learning Javascript
+-  🌱 I’m currently learning MERN Stacks
 -  💬 Ask me about Anything
- <img align="right" position="absolute" alt="shigure" width="400" src="https://media.tenor.com/cyORI7kwShQAAAAi/shigure-ui-dance.gif">
+ <img align="right" position="absolute" alt="shigure" width="350" src="https://media1.tenor.com/m/mVoqhBDEN70AAAAC/kuyashi-blue-archive-midori.gif">
+ 
 
 ## Programming Tools 💻
 - Programming Languages 📄
