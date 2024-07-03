@@ -1,7 +1,6 @@
 ## Hi there, Im a Software Engineering Student at Smkn2 Sukabumi 👋
 -  🌱 I’m currently learning MERN Stacks
 -  💬 Ask me about Anything
- <img align="right" position="absolute" alt="shigure" width="350" src="https://media1.tenor.com/m/mVoqhBDEN70AAAAC/kuyashi-blue-archive-midori.gif">
  
 
 ## Programming Tools 💻
@@ -39,6 +38,9 @@
 
 <!--
 **IhtishamTac/IhtishamTac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+ <img align="right" position="absolute" alt="shigure" width="350" src="https://media1.tenor.com/m/mVoqhBDEN70AAAAC/kuyashi-blue-archive-midori.gif">
+
 
 Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IhtishamTac&layout=compact)
